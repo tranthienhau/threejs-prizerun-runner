@@ -5,3 +5,7 @@ dev-dist
 .DS_Store
 npm-debug.log*
 .vercel
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
