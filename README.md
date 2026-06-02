@@ -6,7 +6,7 @@ Road-style speedrun** where the fastest *verified* time wins. Built as a
 as a **pure, deterministic, server-verifiable simulation** - the core
 requirement for a skill-based (not chance-based) contest.
 
-**Live demo:** _deploy to add URL_
+**Live demo:** https://threejs-prizerun-runner.vercel.app
 
 ## Why this proves the hard parts of the brief
 
